@@ -27,3 +27,10 @@ Matlab scripts in post_scripts.tar.gz can be used to visualize the solution and 
 4) Read the theoretical manual
 
  acroread adaptive.pdf
+
+
+TO DO:
+
+1) Remove Solver::startupTree, because it is useless.
+
+2) Move Solver::createMesh from Solver to QuadTree
